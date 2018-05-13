@@ -1,0 +1,13 @@
+# 2与3的区别：
+https://docs.python.org/3/whatsnew/3.0.html
+http://jfgi.herokuapp.com/
+Someone thinks you are an idiot because you were too stupid to check Google before asking a question. 
+They gave you a link to this site as a joke. 
+The fact that you followed it pretty much proves the point.
+  编码:
+    2默认编码方式是asscii;
+    3默认编码方式是Utf-8
+  print:
+    2中print是一条语句;
+    3中print是一个函数-print()
+    
